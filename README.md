@@ -1,3 +1,3 @@
-# mcb185homework_winter
+# mcb185_homework
 
 editing this file before checking git status
